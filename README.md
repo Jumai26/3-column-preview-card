@@ -16,8 +16,3 @@ This is the first assignment given at the Engineering Career Expo 4.0 Front-end 
 - (https://easyretro.io/tools/hsl-to-hex/) - This helped me convert the color from hsl to hex for easy use in TailwindCSS.
 
 
-## Acknowledgments
-
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
